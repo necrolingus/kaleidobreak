@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Kaleido Break",
+      "hasCanvas": true,
+      "bodyTextLen": 253,
+      "bodyTextHash": "295f336c9a4bc353508577056dbf3bfba9b1168f2c6dfe01f8f48a261ec1f47d",
+      "bodyTextPrefix": "BEST 0 128 BPM BRICK RAVE KALEIDO BREAK Smash the wall in time w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Kaleido Break",
+      "hasCanvas": true,
+      "bodyTextLen": 253,
+      "bodyTextHash": "295f336c9a4bc353508577056dbf3bfba9b1168f2c6dfe01f8f48a261ec1f47d",
+      "bodyTextPrefix": "BEST 0 128 BPM BRICK RAVE KALEIDO BREAK Smash the wall in time w",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
